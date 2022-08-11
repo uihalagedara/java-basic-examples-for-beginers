@@ -1,10 +1,10 @@
 public class Main {
     public static void main(String[] args) {
 
-        boolean result = true;
+        //boolean result = true;
         int age = 24;
         String x = "sample string \n";
-        String Name;
+        //String Name;
         String gender="male";
         
 
