@@ -3,6 +3,7 @@ class StringEx {
         String str0 = "We are studying object oriented programming";
         String str = "0123456789ABCDEFGHIJKLMNo";
 
+//String functions
         System.out.println("The string is: " + str);
         System.out.println("Length of this string is: " + str.length());
         System.out.println("The character at position 5 is : " + str.charAt(5));
