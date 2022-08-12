@@ -5,7 +5,7 @@ public class Foreach {
             System.out.println(x + " ");
         }
 
-        //System.out.println(nums[3]);
+        System.out.println(nums[3]);
         
     }
 }
