@@ -4,3 +4,8 @@ Break
 Car
 Continue
 Examples
+Exceptions
+Factorial
+Foreach
+MDA
+Patterns
