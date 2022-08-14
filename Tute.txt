@@ -9,3 +9,9 @@ Factorial
 Foreach
 MDA
 Patterns
+Recursion
+StringsEx
+Switch
+Test
+Test1
+Vehicle
